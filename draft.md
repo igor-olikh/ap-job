@@ -5,7 +5,15 @@
 ---
 
 ## Professional Summary
-Technically fluent professional with over 9 years of experience leading complex digital products in fast-paced, data-driven environments. Proven ability to manage cross-functional global teams, integrate sophisticated technical systems, and translate performance metrics into strategic product decisions. Currently deepening expertise in Artificial Intelligence and Machine Learning to drive AI-powered product initiatives that deliver measurable business value. MBA-educated with a hands-on, outcome-oriented approach.
+Technically fluent Project Manager with over 9 years of experience leading complex digital products in fast-paced, data-driven environments. 
+
+Proven ability to manage cross-functional global teams, integrate sophisticated technical systems, and translate product performance metrics into strategic decisions. 
+
+Background spans mobile e-commerce, billing infrastructure, authentication systems, and large-scale CRM/ERP integrations—with a strong foundation in A/B testing and data analysis. 
+
+Currently deepening expertise in Artificial Intelligence applications, with the goal of driving AI-powered product initiatives that deliver measurable business value. 
+
+MBA-educated with a hands-on, outcome-oriented approach.
 
 ---
 
