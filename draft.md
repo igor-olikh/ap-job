@@ -19,7 +19,7 @@ MBA-educated with a hands-on, outcome-oriented approach.
 
 ## Professional Experience
 
-### **Product-Focused Project Manager | Gameloft**
+### **Project Manager | Gameloft**
 *November 2020 – Present*
 
 * **Product Optimization:** Managing large-scale mobile e-commerce products by overseeing billing integrations and authentication systems to improve user conversion and payment success rates.
