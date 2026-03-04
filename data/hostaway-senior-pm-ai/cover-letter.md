@@ -4,11 +4,9 @@ Dear Hiring Team,
 
 I'm applying for the Senior Product Manager - AI role at Hostaway.
 
-For the past 5+ years at Gameloft, I've managed large-scale mobile e-commerce products — billing integrations, authentication systems, payment optimization — all tied directly to revenue and conversion. I know what it means to own outcomes on a business-critical product line.
+For the past 5+ years at Gameloft, I've managed large-scale mobile e-commerce products — billing integrations, authentication systems, payment optimization — all tied directly to revenue and conversion. I know what it means to own outcomes on a business-critical product line. I work with product metrics daily — performance, growth, KPIs — so my decisions are always backed by data. And now, with AI, there's an opportunity to use that data even more effectively and make smarter, more informed decisions. That's exactly what excites me about this role — the focus on embedding AI into real workflows.
 
-What excites me about this role is the focus on embedding AI into real workflows. At Gameloft, I've been driving AI integration for payment analytics and user personalization, which taught me that the best AI features are the ones users barely notice — they just make things work better. That's exactly the approach I'd bring to helping property managers, owners, and cleaners through Hostaway's platform.
-
-I'm comfortable working with engineering teams on AI feasibility, evaluating LLM-based solutions, and making product decisions when the path isn't fully clear yet. I've led distributed, cross-functional teams throughout my career, so the remote EMEA setup is a natural fit.
+I'm comfortable working with engineering teams on AI feasibility. I've worked with distributed, cross-functional teams throughout my career, so the remote EMEA setup is a natural fit.
 
 I'd love to discuss how I can contribute to Hostaway's AI vision.
 
